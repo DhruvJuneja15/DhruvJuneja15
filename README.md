@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvJuneja15
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C language.
+- 👀 I’m interested in Programming and Open Source Contribution.
+- 🌱 I know C, C++, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
